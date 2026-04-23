@@ -1,6 +1,6 @@
-# Nexus Doc Q&A System 🧠📄
+# KnowledgeLens Q&A System 🧠📄
 
-Nexus is a full-stack, AI-powered document Question and Answer application. It allows users to seamlessly upload PDF documents and interactively query their content leveraging an advanced RAG (Retrieval-Augmented Generation) pipeline.
+KnowledgeLens is a full-stack, AI-powered document Question and Answer application. It allows users to seamlessly upload PDF documents and interactively query their content leveraging an advanced RAG (Retrieval-Augmented Generation) pipeline.
 
 ## 🚀 Features
 - **Intelligent RAG Pipeline:** Context retrieval and answer generation powered by LangGraph state machines.

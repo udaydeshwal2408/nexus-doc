@@ -9,7 +9,7 @@ function App() {
       <div className="sidebar glass-panel">
         <div className="branding">
           <Cpu className="text-blue-500" size={28} color="#3b82f6" />
-          <h1>NexusDoc</h1>
+          <h1>KnowledgeLens</h1>
         </div>
         
         <div style={{ marginBottom: '24px' }}>

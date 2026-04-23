@@ -49,7 +49,7 @@ const Chat = () => {
               {msg.role === 'assistant' ? <Bot size={20} color="var(--accent-base)" style={{ flexShrink: 0, marginTop: '2px' }} /> : null}
               <div>
                 <strong style={{ fontSize: '0.8rem', color: msg.role === 'user' ? 'rgba(255,255,255,0.7)' : 'var(--accent-base)', display: 'block', marginBottom: '8px' }}>
-                  {msg.role === 'user' ? 'You' : 'Nexus Agent'}
+                  {msg.role === 'user' ? 'You' : 'KnowledgeLens'}
                 </strong>
                 <div className="markdown-content">
                   <ReactMarkdown>{msg.content}</ReactMarkdown>
